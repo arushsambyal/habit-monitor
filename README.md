@@ -1,4 +1,4 @@
-### Monitor Habits
+# Monitor Habits
 ## Overview
 Monitor Habits is a Python project designed to help users track and analyze their habits. The project includes functionality to log habits, monitor progress, and visualize data.
 
